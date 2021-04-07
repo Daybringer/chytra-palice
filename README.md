@@ -25,7 +25,7 @@ _Disclaimer: This project has been built for use in a specific domain (gjk.cz). 
 _The project has been tested only UNIX systems_
 
 Clone repository
-`git clone https://github.com/Daybringer/chytra-palice`
+`git clone https://github.com/Daybringer/chytra-palice --recursive`
 
 Change directory
 `cd chytra-palice`
