@@ -16,7 +16,7 @@ https://www.libreoffice.org/download/download/
 
 https://www.postgresql.org/download/
 
-#### **yarn** or **npm**
+#### **yarn**
 
 ## **_How to run it?_**
 
@@ -33,10 +33,12 @@ Change directory
 Run build
 `sh build.sh`
 
+Create .env with needed variables
+
 Run start
 `sh start.sh`
 
-The website is now available on [localhost](http://localhost:8080)
+The website is now available on [localhost](http://localhost:5000)
 
 ## [Frontend repository](https://github.com/Daybringer/chytra-palice-frontend)
 
