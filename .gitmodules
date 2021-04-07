@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Daybringer/chytra-palice-frontend
+[submodule "server"]
+	path = server
+	url = https://github.com/Daybringer/chytra-palice-server
