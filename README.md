@@ -20,9 +20,9 @@ https://www.postgresql.org/download/
 
 ## **_How to run it?_**
 
-_Disclaimer: This project has been built for use in a specific domain (gjk.cz). As of now there is no centralized way to change this domain and if you were to use it, you would have to change the domain manually._
+_Disclaimer: This project has been built for use in a specific domain (gjk.cz). As of now there is no centralized way to change this domain and if you were to use it, you would have to change the domain in configs manually._
 
-_The project has been tested only UNIX systems_
+_The project has been tested only on UNIX systems_
 
 Clone repository
 `git clone https://github.com/Daybringer/chytra-palice --recursive`
